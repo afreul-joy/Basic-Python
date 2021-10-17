@@ -2,3 +2,5 @@
 
 print("Afreul Joy",end=" ")
 print("He Wants to live in Europe")
+
+
