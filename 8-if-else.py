@@ -7,3 +7,6 @@ else:
 
 
 # python এ if else এর হ্মেত্রে {} second bracket দিতে হয়না 
+# python এ if else এর পর ::: ব্যবহার করতে হয়
+
+
