@@ -15,6 +15,5 @@ sub = ['Math', 'English', 'Bangla','Physics','Chemistry',]
 
 # আগের array/list এর সাথে নতুন array/list যোগ করা যায়
 print(sub+["ICT", 55])
-# print(len(sub))
 
 
