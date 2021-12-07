@@ -1,8 +1,8 @@
 class Student :
-  #studentRoll = ""  #property
+   #studentRoll = ""  #property
   #studentGpa = ""
   
-  def  __init__(self,roll,gpa):  #constructor
+  def __init__(self,roll,gpa):  #constructor
     self.studentRoll = roll 
     self.studentGpa = gpa
 
@@ -11,5 +11,4 @@ class Student :
 
 rahim = Student("101","3.70")
 rahim.display()
-
 
