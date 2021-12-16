@@ -20,4 +20,4 @@ else:
     print("Consonent")
 
 
-    
+     

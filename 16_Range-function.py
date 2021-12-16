@@ -8,7 +8,9 @@
 # print(num)
 
 num3 = list(range(1, 21, 2))  # 1-21 পর্যন্ত চলবে এবং 2 করে ব্যবধান হবে
-print(num3)
+# print(num3)
 
 
 
+n= list(range(10,20,2))
+print(n)

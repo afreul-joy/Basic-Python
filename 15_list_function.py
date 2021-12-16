@@ -1,4 +1,4 @@
-lang=['C','JavaScript','Python','Angular','React','C']
+# lang=['C','JavaScript','Python','Angular','React','C']
 
 # কোন একটা ইলিমেন্ট কতবার আছে সেটা দেখতে পারি count দিয়ে
 # print(lang.count('C'))

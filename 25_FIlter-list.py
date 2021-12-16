@@ -8,7 +8,7 @@ def bigNum (x):
     return x
 
 result = list(filter(bigNum,num))
-print(result)
+# print(result)
 
 ''' 
 python এ map & filter ২টি পারামিটার রিসিভ করে (ফাংশন এবং লিস্ট/এরে)  
@@ -16,3 +16,13 @@ map()
 filter()
 
 '''
+
+num = [1,2,3,4,5,7,8,9,10,11,12,13,14,15]
+
+def arr(x):
+  if x % 2==0 and x % 5 ==0:
+    return x
+  
+
+evn = list(filter(arr,num))
+print(evn)

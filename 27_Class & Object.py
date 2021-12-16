@@ -23,4 +23,3 @@ print(f"Roll = {karim.roll}, Gpa = {karim.gpa}")
 
 
 
-   

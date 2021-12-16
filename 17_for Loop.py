@@ -5,10 +5,11 @@ sum = 0
 for x in num:  # যেমন এখানে x এর মাঝে num এর ভ্যালু চলে আসবে ।।।  তারপর in ব্যবহার করতেই হবে
   # print(x) 
   sum = sum + x
-print(sum)
+# print(sum)
 
-# for y in range(1,11):
-#   print(y)
+
+
+
 
 
 
